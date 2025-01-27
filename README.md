@@ -59,7 +59,7 @@ Otro metodo que nos permite relacionar las accesiones de acuerdo a sus variables
 ![alt text](https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig5.png "Porcentaje de la Varianza Explicada")
 
 ## Software de analisis
-El software ser utilizado es el programa R y puede descargarse para su instalacion de <https://www.r-project.org/>
+El software a ser utilizado es el programa R y puede descargarse para su instalacion de <https://www.r-project.org/>. La instalacion de los _packages_ use la funcion **_install.packages("nombre del package", dep=T)_**
 
 
 
