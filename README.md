@@ -17,6 +17,8 @@ Diám_cav_cen = Diametro de la cavidad central en cm
 
 Las accesiones están identificadas como **Acc_1, Acc_2,......., Acc_31**
 
+El archivo tendra un aspecto como es mostrado a seguir:
+
 | **Nombre** | **Diam** | **Long_peciolo** | **Long_hoja** | **Ancho de Hoja** |
 |:----------:|:-------------:|:----------------:|:-------------:|:-----------------:|
 | Acc_1      |      8.8      |        23        |       28      |         40        |
