@@ -1,6 +1,6 @@
 # Proyecto-Github
 # Metodos estadisticos para caracterizar germoplasma  
-Desarrollo de un repositorio Github para el desarrollo de un proyecto de bioinformatica enfocado a la aplicacion de metodos para caracterizar el germoplasma.\
+Desarrollo de un repositorio Github para el desarrollo de un proyecto de bioinformatica enfocado a la aplicacion de metodos para caracterizar el germoplasma.
 
 ## Datos a ingresar
 En la carpeta Data podran descargara el archivo **Data.csv**
@@ -34,28 +34,32 @@ En la carpeta Script, esta presente un Rscript para ser acondicionado segun las 
 
 ### Grafico 1:
 
-![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/blob/main/Resultados/Fig1.%20Porcentaje%20de%20variancia%20explicada.png "Porcentaje de la vatianza explicada")
+![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/blob/main/Resultados/Fig1.png "Porcentaje de la vatianza explicada")
 
 ### Grafico 2:
 
-![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig1. Porcentaje de variancia explicada.png "Porcentaje de la Varianza Explicada")
+![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig2.png "Porcentaje de la Varianza Explicada")
 
 ### Grafico 3:
 
-![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig1. Porcentaje de variancia explicada.png "Porcentaje de la Varianza Explicada")
+![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig3.png "Porcentaje de la Varianza Explicada")
 
 ## Grafico de Matrix de Correlacion
 Otro metodo de analisis es determinar si algunas variables analizadas estan correlacionadas, para lo cual haciendo uso del _package_ "PerformanceAnalytics" fue obtenido.
 
 ### Grafico 4
 
-![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig1. Porcentaje de variancia explicada.png "Porcentaje de la Varianza Explicada")
+![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig4.png "Porcentaje de la Varianza Explicada")
 
 ## Dendrograma de Agrupamiento
+Otro metodo que nos permite relacionar las accesiones de acuerdo a sus variables, es del agrupamiento. Para este analisis es necesario el uso del _package_ "pvclust"
 
 ### Grafico 5
 
-![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig1. Porcentaje de variancia explicada.png "Porcentaje de la Varianza Explicada")
+![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig5.png "Porcentaje de la Varianza Explicada")
+
+## Software de analisis
+El software ser utilizado es el programa R y puede descargarse para su instalacion de <https://www.r-project.org/>
 
 
 
