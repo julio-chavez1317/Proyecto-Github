@@ -30,7 +30,7 @@ El archivo **Data.csv** tiene un aspecto como es mostrado a seguir:
 Las accesiones son indicadas en la primera columna y los datos de las variables son presentadas en las restantes columnas.
 
 ## PCA de accesiones de Papayita Serrana
-En la carpeta Script, esta presente un Rscript para ser acondicionado segun las necesidades del usuario para obtener una analisis de componente principales (PCA). Desde el ingreso de los datos, normalizacion (solo sin son datos con diferentes unidades), obtencion de influencia de porcentajes de varianza explicadas, contribucion de las variables a los componentes principales, y grafico de PCA.\   
+En la carpeta Script, esta presente un Rscript para ser acondicionado segun las necesidades del usuario para obtener una analisis de componente principales (PCA). Desde el ingreso de los datos, normalizacion (solo sin son datos con diferentes unidades), obtencion de influencia de porcentajes de varianza explicadas, contribucion de las variables a los componentes principales, y grafico de PCA.
 
 ### Grafico 1:
 
