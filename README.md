@@ -33,5 +33,5 @@ En la carpeta Script, esta presente un Rscript para ser acondicionado segun las 
 
 ### Grafico 1:
 
-![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/blob/main/Resultados/tom.png "Tom")
+![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/tom.png "Tom")
 
