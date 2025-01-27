@@ -34,29 +34,29 @@ En la carpeta Script, esta presente un Rscript para ser acondicionado segun las 
 
 ### Grafico 1:
 
-![alt text](https://github.com/julio-chavez1317/Proyecto-Github/blob/f1c2eb612d61a8d80cb57e9eea86efba201def88/Resultados/Fig1.png)
+![alt text](https://github.com/julio-chavez1317/Proyecto-Github/blob/f1c2eb612d61a8d80cb57e9eea86efba201def88/Resultados/Fig1.png "Porcentaje de Varianza Explicada por Componente principal")
 
 ### Grafico 2:
 
-![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig2.png "Porcentaje de la Varianza Explicada")
+![alt text](https://github.com/julio-chavez1317/Proyecto-Github/blob/c60aa0b0462bbe5ed55d638dd5c68470c0cd1d3f/Resultados/Fig2.png "Contribucion de las Variables al Primer componente principal")
 
 ### Grafico 3:
 
-![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig3.png "Porcentaje de la Varianza Explicada")
+![alt text](https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig3.png "Porcentaje de la Varianza Explicada")
 
 ## Grafico de Matrix de Correlacion
 Otro metodo de analisis es determinar si algunas variables analizadas estan correlacionadas, para lo cual haciendo uso del _package_ "PerformanceAnalytics" fue obtenido.
 
 ### Grafico 4
 
-![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig4.png "Porcentaje de la Varianza Explicada")
+![alt text](https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig4.png "Porcentaje de la Varianza Explicada")
 
 ## Dendrograma de Agrupamiento
 Otro metodo que nos permite relacionar las accesiones de acuerdo a sus variables, es del agrupamiento. Para este analisis es necesario el uso del _package_ "pvclust"
 
 ### Grafico 5
 
-![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig5.png "Porcentaje de la Varianza Explicada")
+![alt text](https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig5.png "Porcentaje de la Varianza Explicada")
 
 ## Software de analisis
 El software ser utilizado es el programa R y puede descargarse para su instalacion de <https://www.r-project.org/>
