@@ -17,8 +17,8 @@ Diám_cav_cen = Diametro de la cavidad central en cm
 
 Las accesiones están identificadas como **Acc_1, Acc_2,......., Acc_31**
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| **Nombre** | **   Diam  ** | **Long_peciolo** | **Long_hoja** | **Ancho de Hoja** |
+|:----------:|:-------------:|:----------------:|:-------------:|:-----------------:|
+| Acc_1      |      8.8      |        23        |       28      |         40        |
+| Acc_2      |       16      |        22        |       28      |        47.2       |
+| Acc_3      |       15      |        23        |       24      |         40        |
