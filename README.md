@@ -34,7 +34,7 @@ En la carpeta Script, esta presente un Rscript para ser acondicionado segun las 
 
 ### Grafico 1:
 
-![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/blob/main/Resultados/Fig1.png "Porcentaje de la vatianza explicada")
+![alt text] (Resultados/Fig1.png "Porcentaje de la vatianza explicada")
 
 ### Grafico 2:
 
