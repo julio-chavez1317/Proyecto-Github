@@ -24,3 +24,9 @@ El archivo tendra un aspecto como es mostrado a seguir:
 | Acc_1      |      8.8      |        23        |       28      |         40        |
 | Acc_2      |       16      |        22        |       28      |        47.2       |
 | Acc_3      |       15      |        23        |       24      |         40        |
+
+
+
+Grafico
+[logo1]: https://github.com/julio-chavez1317/Proyecto-Github/Resultados/Fig1. Porcentaje de variancia explicada.png
+![alt text] [logo]
