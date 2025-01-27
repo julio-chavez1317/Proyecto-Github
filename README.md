@@ -30,19 +30,19 @@ El archivo **Data.csv** tiene un aspecto como es mostrado a seguir:
 Las accesiones son indicadas en la primera columna y los datos de las variables son presentadas en las restantes columnas.
 
 ## PCA de accesiones de Papayita Serrana
-En la carpeta Script, esta presente un Rscript para ser acondicionado segun las necesidades del usuario para obtener una analisis de componente principales (PCA). Desde el ingreso de los datos, normalizacion (solo sin son datos con diferentes unidades), obtencion de influencia de porcentajes de varianza explicadas, contribucion de las variables a los componentes principales, y grafico de PCA.
+En la carpeta Script, esta presente un Rscript para ser acondicionado segun las necesidades del usuario para obtener una analisis de componente principales (PCA). Desde el ingreso de los datos, normalizacion (solo sin son datos con diferentes unidades), obtencion de influencia de porcentajes de varianza explicadas, contribucion de las variables a los componentes principales, y grafico de PCA. Para conseguir estos resultados se debe utilizar los _packages_ "FactoMineR" y "factoextra".
 
-### Grafico 1:
+### Grafico 1: Porcentaje de Varianza Explicada por Componente principal
 
-![alt text](https://github.com/julio-chavez1317/Proyecto-Github/blob/f1c2eb612d61a8d80cb57e9eea86efba201def88/Resultados/Fig1.png "Porcentaje de Varianza Explicada por Componente principal")
+![alt text](https://github.com/julio-chavez1317/Proyecto-Github/blob/f1c2eb612d61a8d80cb57e9eea86efba201def88/Resultados/Fig1.png)
 
-### Grafico 2:
+### Grafico 2: Contribucion de las Variables al Primer componente principal
 
-![alt text](https://github.com/julio-chavez1317/Proyecto-Github/blob/c60aa0b0462bbe5ed55d638dd5c68470c0cd1d3f/Resultados/Fig2.png "Contribucion de las Variables al Primer componente principal")
+![alt text](https://github.com/julio-chavez1317/Proyecto-Github/blob/c60aa0b0462bbe5ed55d638dd5c68470c0cd1d3f/Resultados/Fig2.png)
 
-### Grafico 3:
+### Grafico 3: PCA de las accesiones de Papayita Serrana
 
-![alt text](https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig3.png "Porcentaje de la Varianza Explicada")
+![alt text](https://github.com/julio-chavez1317/Proyecto-Github/blob/b9d333828bf1962fb13507c8ad7b046da02e39ea/Resultados/Fig3.png)
 
 ## Grafico de Matrix de Correlacion
 Otro metodo de analisis es determinar si algunas variables analizadas estan correlacionadas, para lo cual haciendo uso del _package_ "PerformanceAnalytics" fue obtenido.
