@@ -34,7 +34,7 @@ En la carpeta Script, esta presente un Rscript para ser acondicionado segun las 
 
 ### Grafico 1:
 
-![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig1. Porcentaje de variancia explicada.png "Porcentaje de la Varianza Explicada")
+![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/blob/main/Resultados/Fig1.%20Porcentaje%20de%20variancia%20explicada.png "Porcentaje de la vatianza explicada")
 
 ### Grafico 2:
 
