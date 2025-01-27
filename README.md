@@ -26,10 +26,12 @@ El archivo **Data.csv** tiene un aspecto como es mostrado a seguir:
 | Acc_2      |       16      |        22        |       28      |        47.2       |
 | Acc_3      |       15      |        23        |       24      |         40        |
 
+Las accesiones son indicadas en la primera columna y los datos de las variables son presentadas en las restantes columnas.\
 
 ## PCA de accesiones de Papayita Serrana
-En la carpeta Script, esta presente un Rscript para ser acondicionado segun las necesidades del usuario para obtener una analisis de componente principales (PCA). Desde el ingreso de los datos, normalizacion (solo sin son datos con diferentes unidades), obtencion de  
-Grafico:
+En la carpeta Script, esta presente un Rscript para ser acondicionado segun las necesidades del usuario para obtener una analisis de componente principales (PCA). Desde el ingreso de los datos, normalizacion (solo sin son datos con diferentes unidades), obtencion de influencia de porcentajes de varianza explicadas, contribucion de las variables a los componentes principales, y grafico de PCA.\   
 
-![Alt text] (https://github.com/julio-chavez1317/Proyecto-Github/blob/main/Resultados/tom.png "Tom")
+### Grafico 1:
+
+![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/blob/main/Resultados/tom.png "Tom")
 
