@@ -31,4 +31,4 @@ Grafico:
 
 ![alt text] [logo]
 
-[logo]: https://github.com/julio-chavez1317/Proyecto-Github/Resultados/Fig1. Porcentaje de variancia explicada.png
+[logo]: https://github.com/julio-chavez1317/Proyecto-Github/blob/main/Resultados/Fig1.%20Porcentaje%20de%20variancia%20explicada.png
