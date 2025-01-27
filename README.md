@@ -27,7 +27,7 @@ El archivo tendra un aspecto como es mostrado a seguir:
 
 
 
-Grafico
+Grafico:
 
 ![alt text] [logo]
 
