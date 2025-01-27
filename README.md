@@ -54,12 +54,12 @@ Otro metodo de analisis es determinar si algunas variables analizadas estan corr
 ## Dendrograma de Agrupamiento
 Otro metodo que nos permite relacionar las accesiones de acuerdo a sus variables, es del agrupamiento. Para este analisis es necesario el uso del _package_ "pvclust"
 
-### Grafico 5
+### Grafico 5: Dendrograma de las accesiones de Papayita Serrana
 
-![alt text](https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig5.png "Porcentaje de la Varianza Explicada")
+![alt text](https://github.com/julio-chavez1317/Proyecto-Github/blob/75730ffc20c8b3d627e739caf83a5f116522293b/Resultados/Fig5.png)
 
 ## Software de analisis
-El software a ser utilizado es el programa R y puede descargarse para su instalacion de <https://www.r-project.org/>. La instalacion de los _packages_ use la funcion **_install.packages("nombre del package", dep=T)_**
+El software a ser utilizado es el programa R y puede descargarse para su instalacion de <https://www.r-project.org/>. Para la instalacion de los _packages_ debe usar la funcion **_install.packages("nombre del package", dep=T)_**
 
 
 
