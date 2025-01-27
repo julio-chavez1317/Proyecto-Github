@@ -29,6 +29,5 @@ El archivo tendra un aspecto como es mostrado a seguir:
 
 Grafico:
 
-![alt text] [logo]
-
+![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/blob/main/Resultados/Fig1.%20Porcentaje%20de%20variancia%20explicada.png)
 [logo]: https://github.com/julio-chavez1317/Proyecto-Github/blob/main/Resultados/Fig1.%20Porcentaje%20de%20variancia%20explicada.png
