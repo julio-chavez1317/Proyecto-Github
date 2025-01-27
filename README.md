@@ -19,7 +19,7 @@ Las accesiones están identificadas como **Acc_1, Acc_2,......., Acc_31**
 
 |Nombre|Diam|Long_peciolo|Long_hoja|..continua|
 |......|....|............|.........|..........|
-|Acc_1 |8.8 |     23     |    28   |
-|Acc_2 |
-|Acc_3 |
-|Cont..|
+|Acc_1 |8.8 |     23     |    28   |          |
+|Acc_2 |16  |     22     |    28   |          |
+|Acc_3 |15  |     23     |    24   |          |
+|Cont  |    |            |         |          |
