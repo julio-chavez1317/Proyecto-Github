@@ -30,4 +30,4 @@ El archivo tendra un aspecto como es mostrado a seguir:
 Grafico:
 
 ![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/blob/main/Resultados/tom.png)
-[logo]: https://github.com/julio-chavez1317/Proyecto-Github/blob/main/Resultados/tom.png
+
