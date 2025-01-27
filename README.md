@@ -5,7 +5,8 @@ Desarrollo de un repositorio Github para el desarrollo de un proyecto de bioinfo
 ## Datos a ingresar
 En la carpeta Data podran descargara el archivo **Data.csv**
 El archivo contiene información de **nueve** variables cuantitativas para **21** accesiones de **_Vasconcellea pubescens_** conocida comunmente como "Papaya serrana".\
-Las variables cuantitativas son las siguientes: \ 
+Las variables cuantitativas son las siguientes: 
+
 Diam = Diametro en cm\
 Long_peciolo = Longitud de peciolo en cm\
 Long_hoja = Longitud de hoja en cm\
