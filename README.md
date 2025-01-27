@@ -15,9 +15,9 @@ Num_frutos = Número de frutos\
 Peso_fruto = Peso de fruto en gramos\
 Largo_frutos = Largo de frutos en cm\
 Diám_fruto = Diametro de frutos en cm\
-Diám_cav_cen = Diametro de la cavidad central en cm\
+Diám_cav_cen = Diametro de la cavidad central en cm
 
-Las accesiones están identificadas como **Acc_1, Acc_2,......., Acc_31**\
+Las accesiones están identificadas como **Acc_1, Acc_2,......., Acc_31**
 
 El archivo **Data.csv** tiene un aspecto como es mostrado a seguir:
 
@@ -27,12 +27,37 @@ El archivo **Data.csv** tiene un aspecto como es mostrado a seguir:
 | Acc_2      |       16      |        22        |       28      |        47.2       |
 | Acc_3      |       15      |        23        |       24      |         40        |
 
-Las accesiones son indicadas en la primera columna y los datos de las variables son presentadas en las restantes columnas.\
+Las accesiones son indicadas en la primera columna y los datos de las variables son presentadas en las restantes columnas.
 
 ## PCA de accesiones de Papayita Serrana
 En la carpeta Script, esta presente un Rscript para ser acondicionado segun las necesidades del usuario para obtener una analisis de componente principales (PCA). Desde el ingreso de los datos, normalizacion (solo sin son datos con diferentes unidades), obtencion de influencia de porcentajes de varianza explicadas, contribucion de las variables a los componentes principales, y grafico de PCA.\   
 
 ### Grafico 1:
 
-![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/tom.png "Tom")
+![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig1. Porcentaje de variancia explicada.png "Porcentaje de la Varianza Explicada")
+
+### Grafico 2:
+
+![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig1. Porcentaje de variancia explicada.png "Porcentaje de la Varianza Explicada")
+
+### Grafico 3:
+
+![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig1. Porcentaje de variancia explicada.png "Porcentaje de la Varianza Explicada")
+
+## Grafico de Matrix de Correlacion
+Otro metodo de analisis es determinar si algunas variables analizadas estan correlacionadas, para lo cual haciendo uso del _package_ "PerformanceAnalytics" fue obtenido.
+
+### Grafico 4
+
+![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig1. Porcentaje de variancia explicada.png "Porcentaje de la Varianza Explicada")
+
+## Dendrograma de Agrupamiento
+
+### Grafico 5
+
+![alt text] (https://github.com/julio-chavez1317/Proyecto-Github/main/Resultados/Fig1. Porcentaje de variancia explicada.png "Porcentaje de la Varianza Explicada")
+
+
+
+
 
