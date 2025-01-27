@@ -29,4 +29,4 @@ El archivo tendra un aspecto como es mostrado a seguir:
 
 Grafico
 [logo1]: https://github.com/julio-chavez1317/Proyecto-Github/Resultados/Fig1. Porcentaje de variancia explicada.png
-![alt text] [logo]
+![alt text] [logo1]
